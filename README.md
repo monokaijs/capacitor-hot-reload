@@ -1,4 +1,6 @@
-## Capacitor with Live Reload support
+## Capacitor with Hot Reload support
+A starter boilerplate for Capacitor with Hot Reload support using Vite. It was built to reduce hassle
+reloading and restarting application to see changes.
 
 ### How to use?
 Clone this project, install dependencies with your favorite package manager like `Yarn`, `npm` or `pnpm`.
@@ -45,5 +47,10 @@ then get the first one to supply to capacitor config (as server).
 Please remember to export `NODE_ENV=production` before doing production build with capacitor
 as it will eliminate the `server.url` config in capacitor (this is required).
 
-
 Have fun coding.
+
+### Issues & Bugs
+Please open an issue on GitHub, I'm willing to help.
+
+### Author
+[@MonokaiJs](https://delimister.com)
